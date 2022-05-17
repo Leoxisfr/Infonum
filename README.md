@@ -2,7 +2,7 @@
 
 ## Installation
 
-##### Pour installer InfoNum, il vous faudra d'abord ecrire dans le terminal: `[git clone https://github.com/Cyber-Stars/Infonum.git`.
+##### Pour installer InfoNum, il vous faudra d'abord ecrire dans le terminal: `git clone https://github.com/Cyber-Stars/Infonum.git`.
 ##### Ensuite, dans le meme terminal, ecrire `cd Infonum`.
 ##### Et enfin, pour terminer l'installation, clicker sur  `install.bat` pour telecharger les packages
 
